@@ -2,12 +2,14 @@
     border : 1px solid gray;
     border-radius: 5px;
     padding: 10px;
-
+    margin-bottom: 20px;
+    width: 50%;
 }
 
 .search-bar form{
     display :flex;
     flex-direction: column;
+    gap: 10px;
 }
 
 
